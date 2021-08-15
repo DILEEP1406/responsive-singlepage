@@ -226,7 +226,7 @@ img{
       margin-bottom:0;
     }
     .section-paragraph::after{
-        content:" ";
+        content:" "; 
         width:15rem;
         height:0.3rem;
         margin: 3rem 0rem;
